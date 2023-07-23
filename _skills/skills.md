@@ -8,13 +8,13 @@ author_profile: true
 
 {% include base_path %}
 
-<div style="display: flex;">
+<div >
     <h2>Skills</h2>
     <ul>
         <li><b>Programming Languages</b>:  C, C++, Python, Dart, PHP, Verilog, MATLAB</li>
         <li><b>Python Libraries</b>:  NumPy, SciPy, Matplotlib, OpenCV, Pandas, Tkinter, Qt</li>
         <li><b>Deep Learning</b>:  PyTorch, Keras, TensorFlow, Scikit</li>
-         <li><b>Dev Ops</b>: Kubernetes, Docker, GIT</li>
+        <li><b>Dev Ops</b>: Kubernetes, Docker, GIT</li>
         <li><b>Data Base</b>: PostgreSQL, MySQL</li>
         <li><b>Web Development</b>: React, Flask, Streamlit</li>
         <li><b>App Development</b>: Flutter</li>
@@ -24,7 +24,7 @@ author_profile: true
 </div>
 
 
-<div style="display: flex;">
+<div>
     <h2>Certifications</h2>
     <h1>Deep Learning Specialization - Coursera</h1>
     <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/ZSHQWUZXUZNX">Certificate</a>
