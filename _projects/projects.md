@@ -12,7 +12,7 @@ author_profile: true
   <div style="flex: 1;">
     <h2>Counterfactual Image Generation using Latent Transformations</h2>
     <p><b>Duration</b>: Apr 2023 - Jun 2023 | 4 mos</p>
-    <p><b>Github</b>: </p>
+    <a href="https://github.com/rohithreddy0087/Counter_Factual_Image_Generation">Github</a>
     <h3>Outcomes</h3>
     <ul>
         <li>Developed a pipeline for counterfactual image generation using GANs and neural networks, enabling the creation of visually similar alternative reality images with desired attribute changes for improved image editing and explainable AI.</li>
@@ -25,7 +25,7 @@ author_profile: true
   <div style="flex: 1;">
     <h2>Instance Eraser</h2>
     <p><b>Duration</b>: Apr 2023 - Jun 2023 | 4 mos</p>
-    <p><b>Github</b>: </p>
+    <a href="https://github.com/rohithreddy0087/Instance_Eraser">Github</a>
     <h3>Outcomes</h3>
     <ul>
         <li>Developed an algorithm inspired by Google's MagicEraser to remove specified objects from images. Utilized instance segmentation and Pix2Pix GAN model for image reconstruction, achieving contextually relevant background recovery.</li>
@@ -79,7 +79,7 @@ author_profile: true
     <h2>Machine Learning-Based Error Control Code Design for Wireless Channel</h2>
     <p><b>Mentor</b>: Dr. Lakshmi Narasimhan,  IIT Palakkad</p>
     <p><b>Duration</b>: Dec 2020 - May 2021 | 5 mos</p>
-    <a href="https://github.com/rohithreddy0087/error-control-codes-wireless-channels">Github</a>
+    <a href="https://github.com/rohithreddy0087/error-control-codes-wireless-channels">Github</a><br>
     <a href="https://drive.google.com/file/d/1KdAa7BKy_9IJxE1zbGKZgfQDbruOLB7J/view">Report</a>
     <h3>Outcomes</h3>
     <ul>
@@ -94,7 +94,7 @@ author_profile: true
     <h2>Video super-resolution for online video conferencing over low bandwidth network</h2>
     <p><b>Mentor</b>: Dr. Lakshmi Narasimhan,  IIT Palakkad</p>
     <p><b>Duration</b>: Aug 2020 - Nov 2020 | 4 mos</p>
-    <a href="https://github.com/rohithreddy0087/Video-superresolution">Github</a>
+    <a href="https://github.com/rohithreddy0087/Video-superresolution">Github</a> <br>
     <a href="https://drive.google.com/file/d/1hfPK63Mo8h9vhzP7rgASlv2VnhgpIbz0/view">Report</a>
     <h3>Outcomes</h3>
     <ul>
