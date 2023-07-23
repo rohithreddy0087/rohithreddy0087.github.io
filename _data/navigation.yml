@@ -14,9 +14,10 @@ main:
 
   - title: "Publications"
     url: /publications/
+
+  - title: "Skills"
+    url: /skills/
         
   - title: "CV"
     url: /cv/
     
-  - title: "Skills"
-    url: /skills/

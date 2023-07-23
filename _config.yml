@@ -190,10 +190,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  cv:
+  skills:
     output: true
     permalink: /:collection/:path/
-  skills:
+  cv:
     output: true
     permalink: /:collection/:path/
   teaching:
@@ -266,6 +266,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+    # _skills
+  - scope:
+      path: ""
+      type: skills
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _cv
   - scope:
       path: ""
@@ -275,15 +284,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _skills
-  - scope:
-      path: ""
-      type: skills
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+
   
 # Sass/SCSS
 sass:

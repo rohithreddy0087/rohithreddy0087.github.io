@@ -42,7 +42,7 @@ author_profile: true
   </div>
   <div style="flex: 1;">
     <p align="right">
-      <img src="../images/iitpkd.png" alt="Door-key Problem" width="200" />
+      <img src="../images/UCSanDiego.png" alt="Door-key Problem" width="200" />
     </p>
   </div>
 </div>
@@ -62,7 +62,7 @@ author_profile: true
   </div>
   <div style="flex: 1;">
     <p align="right">
-      <img src="../images/UCSanDiego.png" alt="Door-key Problem" width="200" />
+      <img src="../images/iitpkd.png" alt="Door-key Problem" width="200" />
     </p>
   </div>
 </div>

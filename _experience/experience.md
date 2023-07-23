@@ -104,7 +104,7 @@ author_profile: true
 <div style="display: flex;">
   <div style="flex: 1;">
     <h2>Academic Intern | Indian Institute of Technology, Hyderabad</h2>
-    <p><b>Location</b>: Kochi, Kerala, India</p>
+    <p><b>Location</b>: Hyderabad, Telangana, India</p>
     <p><b>Duration</b>: May 2019 - Jul 2019 | 3 mos</p>
     <h3>Responsibilites</h3>
     <ul>

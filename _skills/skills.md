@@ -26,7 +26,7 @@ author_profile: true
 
 <div>
     <h2>Certifications</h2>
-    <h1>Deep Learning Specialization - Coursera</h1>
+    <h3>Deep Learning Specialization - Coursera</h3>
     <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/ZSHQWUZXUZNX">Certificate</a>
     <ul>
         <li>Neural Networks and Deep Learning</li>

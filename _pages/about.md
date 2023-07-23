@@ -42,7 +42,7 @@ redirect_from:
         data.
     </p>
     <p class="section-content">
-        My passion for software development and data analysis has driven me to intern at ITS Planners and Panasonic Research,
+        My passion for software development and data analysis has driven me to work at ITS Planners and Panasonic Research,
         where I contributed to various projects like traffic flow optimization, vehicle detection using image processing and
         deep learning, and blockchain security. Additionally, I have obtained extra online certifications in deep learning to
         continually refine my expertise in the field.
