@@ -75,14 +75,14 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-V184X3G91L"
 
 
 # Site Author
 author:
   name             : "Rohith Reddy Rachala"
   avatar           : "rohith-pic.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Passionate Computer Vision & Deep Learning Enthusiast | Master's Student at UCSD | Researcher | Python/C++ Developer | Fitness Enthusiast | Movie Buff"
   location         : "San Diego, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
