@@ -33,8 +33,8 @@ author_profile: true
     <p><b>Duration</b>: Nov 2022 - Jun 2023 | 8 mos</p>
     <h3>Responsibilites</h3>
     <ul>
-        <li>Developing a multi-threaded desktop software application using Python/C++ Qt, incorporating server-client architecture and APIs to connect to and process data from hundreds of NTRIP/socket servers. Implemented advanced data processing techniques, including coordinate correction in RTCM messages and data publishing to a new NTRIP server.</li>
-        <li>Collaborated with the NASA JPL team to analyze time series data using both supervised and unsupervised learning methods to accurately identify and classify various types of anomalies in the data.</li>
+        <li>Developed Python scripts to validate geodetic data spanning over three decades, using recorded earthquake events and sensor fault/change events, resulting in accurate data classification into outliers, transients, and artifacts for further analysis.</li>
+        <li>Designed and Implemented a robust data processing pipeline, leveraging API calls to correct real-time RTCM data from hundreds of sites, facilitating seamless data collection, processing, and distribution to clients.</li>
     </ul>
   </div>
   <div style="flex: 1;">
@@ -54,7 +54,7 @@ author_profile: true
     <ul>
         <li>Developed a low weight image processing algorithm that runs in real-time with multiple threads to count the number of vehicles crossing the stop line using live CCTV footage.</li>
         <li>Designed, developed, and deployed the software needed for a traffic controller. </li>
-        <li>Worked on developing various software programs in Python for optimizing traffic flow and integrating various traffic detectors into Traffic Intelligent Server.</li>
+        <li>Worked on developing various backend software algorithms in Python for optimizing traffic flow and integrating various traffic detectors into Traffic Intelligent Server.</li>
     </ul>
   </div>
   <div style="flex: 1;">
@@ -71,7 +71,7 @@ author_profile: true
     <p><b>Duration</b>: Apr 2020 - Jul 2020 | 4 mos</p>
     <h3>Responsibilites</h3>
     <ul>
-        <li>Developed back-end codes and APIs using Python, SQL, and PostgreSQL(PostGIS) for analyzing public transport data.</li>
+        <li>Developed back-end software and APIs using Python, SQL, and PostgreSQL(PostGIS) for analyzing public transport data.</li>
         <li>Developed Margadarshi app using Flutter, which helps in planning a journey using public transport timetable. The app is currently in use by public with over thousands of daily users.</li>
     </ul>
   </div>

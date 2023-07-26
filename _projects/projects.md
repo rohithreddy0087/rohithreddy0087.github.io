@@ -36,13 +36,13 @@ author_profile: true
 
 <div style="display: flex;">
   <div style="flex: 1;">
-    <h2>Website for Smart Building Research</h2>
+    <h2>Data Anaylsis and Website for Smart Building Research</h2>
     <p><b>Duration</b>: Dec 2022 - Mar 2023 | 4 mos</p>
     <a href="https://github.com/rohithreddy0087/smart_building_website">Github</a>
     <h3>Outcomes</h3>
     <ul>
-        <li>The website consists of a React.js-based frontend and a Flask API-based backend. The backend interacts with a PostgreSQL database that stores data from hundreds of sensors across 50 rooms, recorded every second.</li>
-        <li>The data from the sensors is stored in a PostgreSQL table with millions of rows. To improve performance, the data is partitioned into different databases with table names as sensor IDs. Additionally, indices are added for faster data retrieval between two timestamps.</li>
+        <li>Developed a website for Smart Building research, featuring a React.js-based frontend seamlessly connected to a Flask API-based backend, with efficient PostgreSQL data storage enhanced by automated table partitioning based on sensor IDs and indexing strategies, ensuring fast data access and retrieval.</li>
+        <li>Conducted comprehensive data analysis on sensor data, utilizing data visualization techniques and implemented a basic physics-based neural network computational graph to predict future features, serving as a baseline for subsequent experiments</li>
     </ul>
   </div>
 </div>
