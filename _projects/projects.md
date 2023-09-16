@@ -36,7 +36,7 @@ author_profile: true
 
 <div style="display: flex;">
   <div style="flex: 1;">
-    <h2>Instance Eraser</h2>
+    <h2>Hand and Object Segmentation using DeepLabv3</h2>
     <p><b>Duration</b>: Apr 2023 - Jun 2023 | 4 mos</p>
     <a href="https://github.com/rohithreddy0087/Hand_Object_Segmentation">Github</a>
     <h3>Outcomes</h3>
