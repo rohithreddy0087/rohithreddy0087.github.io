@@ -36,6 +36,19 @@ author_profile: true
 
 <div style="display: flex;">
   <div style="flex: 1;">
+    <h2>Instance Eraser</h2>
+    <p><b>Duration</b>: Apr 2023 - Jun 2023 | 4 mos</p>
+    <a href="https://github.com/rohithreddy0087/Hand_Object_Segmentation">Github</a>
+    <h3>Outcomes</h3>
+    <ul>
+        <li>Developed a hand and object segmentation model for 3D hand pose estimation tasks . Merged hand pose estimation data with segmentation datasets (FreiHand, HO3D, EgoHOS, EgoHands) to create a diverse training dataset.</li>
+        <li>Implemented the state-of-the-art DeepLabv3 model with a ResNet backbone and leveraged PyTorch's Distributed Data Parallel for scalability, training on multiple GPUs for over 100,000 training examples. Successfully fine-tuned the model to achieve robust hand and object segmentation, enabling automatic ground truth annotation for 3D hand pose estimation tasks using the HOnnotate method.</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex;">
+  <div style="flex: 1;">
     <h2>Data Anaylsis and Website for Smart Building Research</h2>
     <p><b>Duration</b>: Dec 2022 - Mar 2023 | 4 mos</p>
     <a href="https://github.com/rohithreddy0087/smart_building_website">Github</a>

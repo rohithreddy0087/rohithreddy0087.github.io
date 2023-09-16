@@ -16,6 +16,7 @@ author_profile: true
     <h3>Responsibilites</h3>
     <ul>
         <li>Developing a multi-threaded desktop software application using Python/C++ Qt, incorporating server-client architecture and APIs to connect to and process data from hundreds of NTRIP/socket servers. Implemented advanced data processing techniques, including coordinate correction in RTCM messages and data publishing to a new NTRIP server.</li>
+        <li>Working a machine learning project to classify anomalies, artifacts, and offsets within a vast dataset of geodetic time series spanning over 30 decades and covering thousands of stations across North America. Developing an end-to-end pipeline that encompasses data preprocessing, validation, dataset creation, and model development, with a focus on leveraging graph-based methods. Employing a combination of Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), LSTMs for time series feature extraction, and Graph Convolutions for spatial relationship analysis. Utilizing distributed training (DDP) on Kubernetes clusters to handle the scale and complexity of the dataset.</li>
         <li>Collaborated with the NASA JPL team to analyze time series data using both supervised and unsupervised learning methods to accurately identify and classify various types of anomalies in the data.</li>
     </ul>
   </div>
