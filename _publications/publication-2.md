@@ -2,8 +2,8 @@
 title: "BEAR-Data: Analysis and Applications of an Open Multizone Building Dataset"
 collection: publications
 permalink: /publications/
-excerpt: ''
-date: 
+excerpt: 'This paper presents a detailed description of the dataset's collection process and features, and data analysis of system utilization and building thermal patterns.'
+date: 2023-09-07
 venue: 'Accepted at ACM BuildSys-23'
 paperurl: 'https://buildsys.acm.org/2023/program/#tentative-papers'
 
