@@ -11,7 +11,7 @@ author_profile: true
 <div style="display: flex;">
   <div style="flex: 1;">
     <h2>6D Pose Estimation using Iterative Closest Point (ICP) and DenseFusion</h2>
-    <p><b>Duration</b>: Oct 2023 - Dec 2023 | 4 mos</p>
+    <p><b>Duration</b>: Oct 2023 - Dec 2023 | 3 mos</p>
     <a href="https://github.com/rohithreddy0087/6D_pose_estimation">Github</a>
     <h3>Outcomes</h3>
     <ul>
@@ -24,11 +24,11 @@ author_profile: true
 <div style="display: flex;">
   <div style="flex: 1;">
     <h2>Counterfactual Image Generation using Latent Transformations</h2>
-    <p><b>Duration</b>: Apr 2023 - Jun 2023 | 4 mos</p>
+    <p><b>Duration</b>: Apr 2023 - Jun 2023 | 3 mos</p>
     <a href="https://github.com/rohithreddy0087/Counter_Factual_Image_Generation">Github</a>
     <h3>Outcomes</h3>
     <ul>
-        <li>Developed a pipeline for counterfactual image generation using GANs and neural networks, enabling the creation of visually similar alternative reality images with desired attribute changes for improved image editing and explainable AI.</li>
+        <li>Developed a pipeline for counterfactual image generation using GANs and neural networks, enabling the creation of visually similar alternative reality images with desired attribute changes for improved image editing and explainable AI.   </li>
         <li>Implemented a multi-step process utilizing StyleGAN(trained on CelebA) for random image sampling, attribute classification, and shift prediction to generate high-quality counterfactual images with specified target attributes.</li>
     </ul>
   </div>
@@ -37,7 +37,7 @@ author_profile: true
 <div style="display: flex;">
   <div style="flex: 1;">
     <h2>Instance Eraser</h2>
-    <p><b>Duration</b>: Apr 2023 - Jun 2023 | 4 mos</p>
+    <p><b>Duration</b>: Apr 2023 - Jun 2023 | 3 mos</p>
     <a href="https://github.com/rohithreddy0087/Instance_Eraser">Github</a>
     <h3>Outcomes</h3>
     <ul>
@@ -50,7 +50,7 @@ author_profile: true
 <div style="display: flex;">
   <div style="flex: 1;">
     <h2>Hand and Object Segmentation using DeepLabv3</h2>
-    <p><b>Duration</b>: Apr 2023 - Jun 2023 | 4 mos</p>
+    <p><b>Duration</b>: Apr 2023 - Jun 2023 | 3 mos</p>
     <a href="https://github.com/rohithreddy0087/Hand_Object_Segmentation">Github</a>
     <h3>Outcomes</h3>
     <ul>
@@ -186,16 +186,3 @@ author_profile: true
     </ul>
   </div>
 </div>
-
-<!-- <div style="display: flex;">
-  <div style="flex: 1;">
-    <h2>Smart Cities: Garbage Management System - Digital Systems</h2>
-    <p><b>Mentor</b>: Dr. Sabu Emmanuel,  IIT Palakkad</p>
-    <p><b>Duration</b>: Oct 2018 - Nov 2018 | 2 mos</p>
-    <h3>Outcomes</h3>
-    <ul>
-        <li>Main objective of the project is to make a prototype for efficient garbage management system that connects a range of places in a city.</li>
-        <li>The developed prototype is written in Verilog and implemented on a Xilinx- Zynq FPGA board</li>
-    </ul>
-  </div>
-</div> -->

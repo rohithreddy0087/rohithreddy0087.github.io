@@ -11,7 +11,7 @@ author_profile: true
 <div style="display: flex;">
   <div style="flex: 1;">
     <h2>University of California, San Diego</h2>
-    <p><b>GPA</b>: 3.89/4</p>
+    <p><b>GPA</b>: 3.92/4</p>
     <p><b>Location</b>: San Diego, CA, USA</p>
     <p><b>Degree</b>: Masters in Electrical and Computer Engineering</p>
     <p><b>Specialization</b>: Machine learning, Computer Vision, Signal and Image Processing</p>
