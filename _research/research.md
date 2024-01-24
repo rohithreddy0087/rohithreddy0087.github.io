@@ -16,8 +16,9 @@ author_profile: true
     <h3>Responsibilites</h3>
     <ul>
         <li>Working on Accurate 3D-Hand Pose Estimation via Multi-Modal Fusion</li>
-        <li>Researching multi-modal fusion techniques (sensor and image) to improve 3D hand pose estimation in highly occluded scenarios.</li>
-        <li>Implementing an automated approach to annotate ground truths from multi-view cameras for training a transformer based architecture.</li>
+        <li>Researching multi-modal fusion techniques to improve 3D hand pose estimation in highly occluded scenarios. Developed a synchronized and automated approach to collect a well structured dataset from multi-view cameras and a wearable sensor.
+        </li>
+        <li>Conducted extensive experiments with the Meshgraphormer model on the developed dataset, exploring various modalities. Identified the need for additional data collection to improve 3D hand pose estimation in occluded scenarios.</li>
     </ul>
   </div>
   <div style="flex: 1;">
@@ -38,6 +39,7 @@ author_profile: true
         <li>Worked on Data-driven Smart Building Modeling</li>
         <li>Developed an efficient data storage system using PostgreSQL to organize and store temporal data, improving data access speed by automating table partitioning based on sensor IDs.</li>
         <li>Developed Python Flask APIs that connect to the database and retrieve data for a given time interval and registered users, while also developing a ReactJS-based frontend website with pages for registration and data retrieval.</li>
+        <li>Performed exploratory data analysis on sensor data, extracting vital features. Implemented linear regression and random forest for accurate feature prediction, establishing a baseline.</li>
     </ul>
   </div>
   <div style="flex: 1;">
