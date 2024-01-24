@@ -8,18 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-<div style="display: flex;">
-  <div style="flex: 1;">
-    <h2>6D Pose Estimation using Iterative Closest Point (ICP) and DenseFusion</h2>
-    <p><b>Duration</b>: Oct 2023 - Dec 2023 | 3 mos</p>
-    <a href="https://github.com/rohithreddy0087/6D_pose_estimation">Github</a>
-    <h3>Outcomes</h3>
-    <ul>
-        <li>Developed a 6D pose estimation system combining DeepLabv3 for segmentation and Dense Fusion for pose refinement, achieving high accuracy in synthetic scenes with a dataset of 79 object classes./li>
-        <li>Conducted extensive training and ablation studies on DeepLabv3 and Dense Fusion, optimizing for accuracy and efficiency; successfully integrated ICP with initial Dense Fusion weights for enhanced pose estimation refinement.</li>
-    </ul>
-  </div>
-</div>
 
 <div style="display: flex;">
   <div style="flex: 1;">
@@ -30,6 +18,19 @@ author_profile: true
     <ul>
         <li>Developed a pipeline for counterfactual image generation using GANs and neural networks, enabling the creation of visually similar alternative reality images with desired attribute changes for improved image editing and explainable AI.   </li>
         <li>Implemented a multi-step process utilizing StyleGAN(trained on CelebA) for random image sampling, attribute classification, and shift prediction to generate high-quality counterfactual images with specified target attributes.</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <h2>6D Pose Estimation using Iterative Closest Point (ICP) and DenseFusion</h2>
+    <p><b>Duration</b>: Oct 2023 - Dec 2023 | 3 mos</p>
+    <a href="https://github.com/rohithreddy0087/6D_pose_estimation">Github</a>
+    <h3>Outcomes</h3>
+    <ul>
+        <li>Developed a 6D pose estimation system combining DeepLabv3 for segmentation and Dense Fusion for pose refinement, achieving high accuracy in synthetic scenes with a dataset of 79 object classes./li>
+        <li>Conducted extensive training and ablation studies on DeepLabv3 and Dense Fusion, optimizing for accuracy and efficiency; successfully integrated ICP with initial Dense Fusion weights for enhanced pose estimation refinement.</li>
     </ul>
   </div>
 </div>
