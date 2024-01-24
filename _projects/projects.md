@@ -10,6 +10,19 @@ author_profile: true
 
 <div style="display: flex;">
   <div style="flex: 1;">
+    <h2>6D Pose Estimation using Iterative Closest Point (ICP) and DenseFusion</h2>
+    <p><b>Duration</b>: Oct 2023 - Dec 2023 | 4 mos</p>
+    <a href="https://github.com/rohithreddy0087/6D_pose_estimation">Github</a>
+    <h3>Outcomes</h3>
+    <ul>
+        <li>Developed a 6D pose estimation system combining DeepLabv3 for segmentation and Dense Fusion for pose refinement, achieving high accuracy in synthetic scenes with a dataset of 79 object classes./li>
+        <li>Conducted extensive training and ablation studies on DeepLabv3 and Dense Fusion, optimizing for accuracy and efficiency; successfully integrated ICP with initial Dense Fusion weights for enhanced pose estimation refinement.</li>
+    </ul>
+  </div>
+</div>
+
+<div style="display: flex;">
+  <div style="flex: 1;">
     <h2>Counterfactual Image Generation using Latent Transformations</h2>
     <p><b>Duration</b>: Apr 2023 - Jun 2023 | 4 mos</p>
     <a href="https://github.com/rohithreddy0087/Counter_Factual_Image_Generation">Github</a>
@@ -30,19 +43,6 @@ author_profile: true
     <ul>
         <li>Developed an algorithm inspired by Google's MagicEraser to remove specified objects from images. Utilized instance segmentation and Pix2Pix GAN model for image reconstruction, achieving contextually relevant background recovery.</li>
         <li>Implemented a user-friendly interface for object removal. Experimented with Mask R-CNN and generative models. While not state of the art, achieved decent results and demonstrated potential for further improvement through experimentation.</li>
-    </ul>
-  </div>
-</div>
-
-<div style="display: flex;">
-  <div style="flex: 1;">
-    <h2>6D Pose Estimation using Iterative Closest Point (ICP) and DenseFusion</h2>
-    <p><b>Duration</b>: Apr 2023 - Jun 2023 | 4 mos</p>
-    <a href="https://github.com/rohithreddy0087/6D_pose_estimation">Github</a>
-    <h3>Outcomes</h3>
-    <ul>
-        <li>Developed a 6D pose estimation system combining DeepLabv3 for segmentation and Dense Fusion for pose refinement, achieving high accuracy in synthetic scenes with a dataset of 79 object classes./li>
-        <li>Conducted extensive training and ablation studies on DeepLabv3 and Dense Fusion, optimizing for accuracy and efficiency; successfully integrated ICP with initial Dense Fusion weights for enhanced pose estimation refinement.</li>
     </ul>
   </div>
 </div>

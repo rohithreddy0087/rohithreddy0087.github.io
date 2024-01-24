@@ -15,8 +15,8 @@ author_profile: true
     <p><b>Duration</b>: Jan 2023 - Present | 2 mos</p>
     <h3>Responsibilites</h3>
     <ul>
-        <li>Developing a ML pipeline in collaboration with NASA JPL, to classify spatio-temporal anomalies. Executed exploratory data analysis for feature extraction and conducted experiments with random forests and GCNs.</li>
-        <li>Implemented distributed training on Kubernetes, enhancing scalability for large datasets. Experimented with various ML architectures and performed hyperparameter tuning, improving model accuracy.</li>
+        <li>ML Modeling: Developing a ML pipeline in collaboration with NASA JPL, to classify spatio-temporal anomalies. Executed exploratory data analysis for feature extraction and conducted experiments with random forests and GCNs.</li>
+        <li>MLOps and Distributed Infrastructure: Implemented distributed training on Kubernetes, enhancing scalability for large datasets. Experimented with various ML architectures and performed hyperparameter tuning, improving model accuracy.</li>
         <li>Real-Time Data Processing Software: Developed a multi-threaded Qt-based software, enabling real-time processing of sensor data from over 100 servers, incorporating APIs for data correction and GPS-based user interaction.</li>
         <li>Scalable Server and GUI: Engineered a scalable server capable of handling simultaneous client connections with secure user authentication. Designed an intuitive GUI for monitoring client statuses and managing server connections.</li>
         <li>Data Processing: Developed Python scripts to validate geodetic data spanning over three decades, using recorded earthquake events and sensor fault/change events, resulting in accurate data classification into outliers, transients, and artifacts for further analysis.</li>
