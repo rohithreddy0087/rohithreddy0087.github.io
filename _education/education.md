@@ -20,8 +20,12 @@ author_profile: true
     <ul>
         <li>CSE 252A : Computer Vision 1</li>
         <li>CSE 252D : Advanced Computer Vision</li>
+        <li>CSE 275 : Deep Learning for 3D data</li>
         <li>ECE 285: Intro to Visual Learning</li>
         <li>ECE 285: Deep Generative Models</li>
+        <li>DSC 204 : Scalable Data Systems</li>
+        <li>ECE 141A : Software Foundations</li>
+        <li>DSC 204 : Recommender Systems</li>
         <li>ECE 271A: Statistical learning 1 </li>
         <li>ECE 253: Digital Image Processing</li>
         <li>ECE 251A: Digital Signal Processing 1</li>
