@@ -13,8 +13,8 @@ author_profile: true
     <h2>Hand-Drawn Electrical Circuit Recognition using Object Detection and Node Recognition</h2>
     <p><b>Date</b>: 2022-04-25</p>
     <p><b>Venue</b>: SN Computer Science</p>
-    <p><a href="https://link.springer.com/article/10.1007/s42979-022-01159-0">Paper url</a> | 
-    <a href="https://github.com/rohithreddy0087/Hand-Drawn-Electrical-Circuit-Recognition-using-YOLOv5">Github</a></p>
+    <a href="https://link.springer.com/article/10.1007/s42979-022-01159-0">Paper url</a>
+    <a href="https://github.com/rohithreddy0087/Hand-Drawn-Electrical-Circuit-Recognition-using-YOLOv5">Github</a>
     
     <p><b>Citation</b>: Rachala, R.R., Panicker, M.R. Hand-Drawn Electrical Circuit Recognition Using Object Detection and Node Recognition. SN COMPUT. SCI. 3, 244 (2022). https://doi.org/10.1007/s42979-022-01159-0</p>
     <h3>Abstract</h3>
@@ -27,8 +27,8 @@ author_profile: true
     <h2>BEAR-Data: Analysis and Applications of an Open Multizone Building Dataset</h2>
     <p><b>Date</b>: 2023-09-07</p>
     <p><b>Venue</b>: ACM BuildSys-23</p>
-    <p><a href="https://dl.acm.org/doi/abs/10.1145/3600100.3623740">Paper url</a> | 
-    <a href="https://ucsdsmartbuilding.github.io/index.html">Github</a></p>
+    <a href="https://dl.acm.org/doi/abs/10.1145/3600100.3623740">Paper url</a>
+    <a href="https://ucsdsmartbuilding.github.io/index.html">Github</a>
     
     <p><b>Citation</b>: Yuexin Bian, Xiaohan Fu, Bo Liu, Rohith Rachala, Rajesh K. Gupta, and Yuanyuan Shi. 2023. BEAR-Data: Analysis and Applications of an Open Multizone Building Dataset. In Proceedings of the 10th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys '23). Association for Computing Machinery, New York, NY, USA, 240–243. https://doi.org/10.1145/3600100.3623740</p>
     <h3>Abstract</h3>
